@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/kamaleshpanda/SQL/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/kamaleshpanda/SQL/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/kamaleshpanda/SQL/tree/master/0184-department-highest-salary) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/kamaleshpanda/SQL/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
