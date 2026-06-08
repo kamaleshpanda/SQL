@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/kamaleshpanda/SQL/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/kamaleshpanda/SQL/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kamaleshpanda/SQL/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/kamaleshpanda/SQL/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/kamaleshpanda/SQL/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kamaleshpanda/SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/kamaleshpanda/SQL/tree/master/1683-invalid-tweets) |
