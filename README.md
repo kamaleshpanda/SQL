@@ -30,15 +30,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kamaleshpanda/SQL/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/kamaleshpanda/SQL/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kamaleshpanda/SQL/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/kamaleshpanda/SQL/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamaleshpanda/SQL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/kamaleshpanda/SQL/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kamaleshpanda/SQL/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/kamaleshpanda/SQL/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
